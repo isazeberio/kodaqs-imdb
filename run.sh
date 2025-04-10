@@ -11,10 +11,12 @@ pip install --upgrade pip
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the analysis
-python code/imdb.ipynb
+# Convert and execute notebook 
+jupyter nbconvert --execute --to notebook --inplace ./code/imdb.ipynb
 
-# Run the notebook
-jupyter nbconvert --execute --to notebook code/imdb.ipynb
+# Convert notebook to normal srcript
+# jupyter nbconvert --to script code/imdb.ipynb
+# python code/imdb.py
 
-echo "Jupyter notebook executed succesfully"
+
+echo "Jupyter notebook executed successfully"
