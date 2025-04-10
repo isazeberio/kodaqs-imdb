@@ -1,5 +1,5 @@
 # IMDB Top 5000 Movies
-This project analysis IMDB Top 5000 Movies (https://www.kaggle.com/datasets/tiagoadrianunes/imdb-top-5000-movies/data)
+This project analysis IMDB Top 5000 Movies for a KODAQS Assignment.
 
 
 ## Reproducibility Setup
