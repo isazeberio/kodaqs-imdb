@@ -3,7 +3,7 @@ matplotlib==3.10.1
 seaborn==0.13.2
 jupyter==1.0.0
 jupyterlab>=4.0
-ipykernel
+ipykernel==6.0.0 
 notebook==7.0.0
 ipykernel==6.0.0
 ipython==8.0.0
