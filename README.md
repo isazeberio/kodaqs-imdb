@@ -1,5 +1,5 @@
-# IMDB Top 5000 Movies
-This project analysis IMDB Top 5000 Movies for a KODAQS Assignment.
+# IMDB Top 5000 Movies Reviews
+This project analysis IMDB Top 5000 Movies Reviews for KODAQS Assignment.
 
 
 ## Reproducibility Setup
